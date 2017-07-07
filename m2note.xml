@@ -11,5 +11,5 @@
         <project name="Moyster/android_vendor_meizu_m2note" path="vendor/meizu/m2note" remote="gh" revision="los-14.1" />
         <project name="Moyster/nougat_device_meizu_m2note" path="device/meizu/m2note" remote="gh" revision="los-14.1" />
 <!--Tv launcher -->
-	<project name="youhandcn/android_tv_metro" path="vendor/meizu/m2note/proprietary/app" remote="gh" revision="los-14.1" />
+	<project name="youhandcn/android_tv_metro" path="vendor/meizu/m2note/proprietary/app/TVLauncher" remote="gh" revision="los-14.1" />
 </manifest>
